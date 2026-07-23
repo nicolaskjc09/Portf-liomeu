@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tywSszXwvLk=",
+  "dgSpecHash": "8mPrLm2/gZY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portfólio\\Portfólio.csproj",
+  "projectFilePath": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portfólio\\Portfólio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512"
+    "C:\\Users\\Client\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
   ],
   "logs": []
 }

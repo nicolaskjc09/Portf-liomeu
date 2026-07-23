@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\",
+  "WorkspaceRootPath": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\pages\\curriculo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\historia.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\historia.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\pages\\historia.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\nicol\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|c:\\users\\client\\documents\\github\\portf-liomeu\\portf\u00F3lio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BB138D8E-20E8-B93C-2FBA-173166A4634C}|Portf\u00F3lio\\Portf\u00F3lio.csproj|solutionrelative:portf\u00F3lio\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\wwwroot\\app.css",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\wwwroot\\app.css",
               "RelativeToolTip": "Portf\u00F3lio\\wwwroot\\app.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Contato.razor",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Contato.razor",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Contato.razor",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Pages\\Contato.razor",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Contato.razor",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Contato.razor",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Pages\\Contato.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Curriculo.razor",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Pages\\Curriculo.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -81,35 +81,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Historia.razor",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Historia.razor",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Historia.razor",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Pages\\Historia.razor",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Historia.razor",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Historia.razor",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Pages\\Historia.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAACQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-11T13:34:45.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T13:34:45.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-11T12:50:40.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T12:50:40.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -119,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\Portf-liomeu\\Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
               "RelativeToolTip": "Portf\u00F3lio\\Components\\Layout\\MainLayout.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
